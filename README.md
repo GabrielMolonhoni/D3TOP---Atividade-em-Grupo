@@ -4,9 +4,9 @@ Participantes:
 * Beatriz Andrade Luiz - CP3016307
 * Gabriel Marques Molonhoni - CP3016129
 
-## ClassificaÃ§Ã£o de comentÃ¡rios de compras no e-commerce
+## Classificação de comenários de compras no e-commerce
 
-### 1. MotivaÃ§Ã£o
+### 1. Motivação
 
 A motivaÃ§Ã£o para esse trabalho Ã© poder classificar os comentÃ¡rios da Ã¡rea do varejo
 para que esses dados possam ser aproveitados pelas empresas varejistas brasileiras na hora da
@@ -15,7 +15,7 @@ produtos pode se adequar a vontade do consumidor naquela Ã©poca do ano, fazend
 consumo e a economia varejista possam crescer. AlÃ©m disso, pode-se oferecer uma anÃ¡lise em
 tempo real dessas pesquisas e servindo tambÃ©m como entrada para algoritmos de recomendaÃ§Ã£o.
 
-### 2. DescriÃ§Ã£o
+### 2. Descrição
 Esse trabalho busca estudar e implementar uma soluÃ§Ã£o de anÃ¡lise de dados de
 mecanismos de pesquisa online para o setor de varejo, fazendo com que o setor varejista possa
 oferecer produtos especÃ­ficos em determinados meses do ano com o intuito de adequar as vendas
@@ -48,4 +48,4 @@ Este trabalho terÃ¡ foco na avaliaÃ§Ã£o de pedidos e classificaÃ§Ã£o (
 Os dados foram baixados localmente.
 
 ### Referencias
-* https://www.kaggle.com/code/leandroal/an-lise-do-e-commerce-no-brasil-olist-dataset/notebook481131a96f49d00fd61b22a9e7b5be0ecdf336a1
+* https://www.kaggle.com/code/leandroal/an-lise-do-e-commerce-no-brasil-olist-dataset/notebook
