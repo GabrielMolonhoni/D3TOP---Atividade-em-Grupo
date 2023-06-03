@@ -61,9 +61,19 @@ Os dados foram baixados localmente.
 
 ### 5. Como testar ?
 
-Para testar o modelo em produção, basta executar o app.py. (que está dentro )
+Para testar o modelo em produção, basta executar o app.py. (que está dentro ).
+
 Será gerando uma URL parecida com: http://127.0.0.1:5000/
 Basta acessar a URL gerada.
+
+![image](https://github.com/GabrielMolonhoni/D3TOP-ProjetoNLP/assets/44851649/4b05593d-b2cb-4eee-8010-fe372a37211a)
+
+Adicione um comentário como se estivesse comentnado após uma compra no e-commerce.
+
+![image](https://github.com/GabrielMolonhoni/D3TOP-ProjetoNLP/assets/44851649/f5cf5378-f2e6-4679-8e52-4140a2d07a60)
+![image](https://github.com/GabrielMolonhoni/D3TOP-ProjetoNLP/assets/44851649/f03adc7a-78ea-4dc5-a102-dc5ca40bd28d)
+
+
 
 ### Refêrencias
 
